@@ -1,0 +1,15 @@
+{
+  "name": "new_app",
+  "version": "1.0.0",
+  "description": "Empty application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Author name",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.2",
+    "pug": "^2.0.0-rc.1"
+  }
+}
